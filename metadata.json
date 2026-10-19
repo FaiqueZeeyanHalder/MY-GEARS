@@ -1,0 +1,6 @@
+{
+  "name": "Curated Gear & Setup",
+  "description": "An aesthetic light-themed catalog and showcase of everyday hardware, desk setup, photography kit, audio gear, and tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
